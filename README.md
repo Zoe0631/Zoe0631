@@ -25,8 +25,7 @@
 
 
 ## 🍊 Resume 🍊
-
-<a href="https://closed-glade-095.notion.site/81b28acfc5764e158ce81b074aa5a227"><img src="https://img.shields.io/badge/resume-FF3399?style=flat-square&logo=Notion&logoColor=white" /></a>
+<a href="https://www.notion.so/1-9a5d7587bacb47bea6c3732edc32d37d?pvs=4"><img src="https://img.shields.io/badge/resume-FF3399?style=flat-square&logo=Notion&logoColor=white" /></a>
 
 
 </div>
