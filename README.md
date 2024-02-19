@@ -10,18 +10,5 @@
 
 **Phone.** 010-2840-0631
 
-## 🔑 Back-end Stack 🔑
-
-<img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white">
-<img src="https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=spring&logoColor=white">
-
-<img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"> 
-
-## 🤝 Cowork Tools 🤝
-
-<img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/slack-6441A5?style=flat-square&logo=Slack&logoColor=white" />
-<img src="https://img.shields.io/badge/notion-181717?style=flat-square&logo=Notion&logoColor=white" />
-
 
 </div>
