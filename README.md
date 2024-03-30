@@ -6,7 +6,7 @@
 
 ### 🌈 Welcome to Yeji world 🌞
 
-[![Notion Badge](https://img.shields.io/badge/blog-FF3399?logo=Notion&logoColor=white&link=https://closed-glade-095.notion.site/afd084d52c8e4b91bf41989fe506c820?v=b22608636db4414a81dfce310113b411&pvs=4)](https://closed-glade-095.notion.site/afd084d52c8e4b91bf41989fe506c820?v=b22608636db4414a81dfce310113b411&pvs=4) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Zoe0631?tab=repositories&count_bg=%238C8484&title_bg=%23F1A0A0&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) 
+[![Notion Badge](https://img.shields.io/badge/blog-FF3399?logo=Notion&logoColor=white&link=)](https://closed-glade-095.notion.site/afd084d52c8e4b91bf41989fe506c820?v=b22608636db4414a81dfce310113b411&pvs=4) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Zoe0631?tab=repositories&count_bg=%238C8484&title_bg=%23F1A0A0&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) 
 
 <br>
 
@@ -33,12 +33,16 @@
 
 
 
-### ☎️ Contact.
+### 📞 Contact.
 
 **Email.** yzoe0631@gmail.com
 
 **Phone.** 010-7905-0631
 
+
+### 📌 For Study.
+
+👉 [공부한 내용 정리한 노션](https://closed-glade-095.notion.site/afd084d52c8e4b91bf41989fe506c820?v=b22608636db4414a81dfce310113b411&pvs=4)
 
 <br>
 
